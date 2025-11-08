@@ -1,0 +1,2 @@
+1. Menginputkan Hasil Brainstorming / Prompt Mentah Agar Menyesuaikan Template:
+"Tolong berdasarkan file [target.md], ubahlah isinya agar menyesuaikan dengan template [template.md] dan ubahlah nama file targetnya juga agar lebih terlihat professional"
